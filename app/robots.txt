@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://plumedashboard.vercel.app/sitemap.xml
